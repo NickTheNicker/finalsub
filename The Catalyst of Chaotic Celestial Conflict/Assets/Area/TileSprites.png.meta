@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: d4536228bac6f7a41b3db91f5322cf10
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TileSprites_0
+    21300002: TileSprites_1
+    21300004: TileSprites_2
+    21300006: TileSprites_5
+    21300008: TileSprites_6
+    21300010: TileSprites_7
+    21300012: TileSprites_8
+    21300014: TileSprites_9
+    21300016: TileSprites_10
+    21300018: TileSprites_11
+    21300020: TileSprites_3
+    21300022: TileSprites_4
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 44
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileSprites_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 53
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -22, y: -22.5}
+        - {x: 22, y: 22.5}
+        - {x: 22, y: -22.5}
+        - {x: 22, y: -22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79d30ffa3c142243911f1f3e5a7dc3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSprites_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 53
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -22, y: -22.5}
+        - {x: -22, y: 22.5}
+        - {x: 22, y: 22.5}
+        - {x: 22, y: -22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8378715e452abff46a4a5e739c6279fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSprites_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 53
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -22, y: -22.5}
+        - {x: -22, y: -22.5}
+        - {x: -22, y: 22.5}
+        - {x: 22, y: -22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be127057f269ffc40b84033ad662a69b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSprites_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 7
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fb77b2c80b4124d95a9a5b9de09c68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSprites_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 7
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482dc4e37e222f04e913bc474f163df2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSprites_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 7
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228bf389775a55f478c8b10f6fb073cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSprites_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 15
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -40}
+        - {x: -7, y: -40}
+        - {x: -25, y: -40}
+        - {x: -25, y: 2}
+        - {x: -25, y: 40}
+        - {x: 25, y: 40}
+        - {x: 25, y: -1}
+        - {x: 25, y: -40}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b262c2c84766c4dba420dc5ae670e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSprites_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: -40}
+        - {x: 1.5, y: -40}
+        - {x: -11.5, y: -40}
+        - {x: -24.5, y: -40}
+        - {x: -24.5, y: 1}
+        - {x: -24.5, y: 40}
+        - {x: 24.5, y: 40}
+        - {x: 24.5, y: -4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d0740e2fe1a54448167d0fb84d0808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: deb97519c1abf0b46aa6d777530cb135
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

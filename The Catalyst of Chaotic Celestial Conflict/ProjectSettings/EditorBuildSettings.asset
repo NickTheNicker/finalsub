@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: fc13423f3965a12438c550b73491d6c9
+  - enabled: 1
+    path: Assets/Scenes/Intro1.unity
+    guid: bda0f4fdd09cc2543a80178667a096a8
+  - enabled: 1
+    path: Assets/Scenes/Intro2.unity
+    guid: d594b702993c0494f96369b25f2d0637
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: 2ee355fa33b345848b4a286c369c4bbc
+  - enabled: 1
+    path: Assets/Scenes/Primordial Prairie.unity
+    guid: 4c23f6974a3af0b4e9ecf2fbb61faa59
+  - enabled: 1
+    path: Assets/Scenes/ToBeContinued.unity
+    guid: 5e70d25d2fca0da4f9e50fcf79ecf755
+  m_configObjects: {}

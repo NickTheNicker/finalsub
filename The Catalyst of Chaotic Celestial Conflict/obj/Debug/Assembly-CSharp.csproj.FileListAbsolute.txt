@@ -1,0 +1,2 @@
+C:\Users\nicho\Desktop\The Catalyst of Chaotic Celestial Conflict\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\nicho\Desktop\The Catalyst of Chaotic Celestial Conflict\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
